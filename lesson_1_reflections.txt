@@ -1,0 +1,10 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+By the highlighting hot changed bug.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Very easy.
+
+How can you use the commands git log and git diff to view the history of files?
+git log + git diff id1 id2
+
+Second version
